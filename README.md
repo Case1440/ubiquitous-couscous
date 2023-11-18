@@ -2,9 +2,9 @@
 
 ## General Info
 
-Deployed Link: https://case1440.github.io/animated-octo-computing-machine/
+Deployed Link: https://case1440.github.io/ubiquitous-couscous/
 
-Public Github Repo: https://github.com/Case1440/animated-octo-computing-machine
+Public Github Repo: https://github.com/Case1440/ubiquitous-couscous
 
 ## User Story
 
