@@ -41,9 +41,9 @@ The Project was created with:
 
 ## Screenshots
 
-![Alt text](https://github.com/Case1440/animated-octo-computing-machine/blob/main/assets/images/screenshots/Screenshot%20(2).png)
+![Alt text](https://github.com/Case1440/ubiquitous-couscous/blob/main/Screenshot%202023-11-17%20234056.png)
 
-![Alt text](https://github.com/Case1440/animated-octo-computing-machine/blob/main/assets/images/screenshots/Screenshot%20(3).png)
+![Alt text](https://github.com/Case1440/ubiquitous-couscous/blob/main/Screenshot%202023-11-17%20234107.png)
 
 ## Summary
 
